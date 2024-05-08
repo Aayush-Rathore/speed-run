@@ -1,10 +1,11 @@
 import "./App.css";
+import Login from "./pages/auth/Login";
 
 function App() {
   return (
     <>
       <div>
-        <h1>Start From Here</h1>
+        <Login />
       </div>
     </>
   );
